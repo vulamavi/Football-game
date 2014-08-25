@@ -1,9 +1,19 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TouchHandler.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Photon Unity Networking/Plugins/PhotonNetwork/CustomTypes.cs">
     <Files>
-      <File FileName="Assets/Scripts/TouchHandler.cs" Line="34" Column="2" />
-      <File FileName="Assets/Scripts/Ball/NormalScript.cs" Line="30" Column="37" />
+      <File FileName="Assets/Photon Unity Networking/UtilityScripts/ConnectAndJoinRandom.cs" Line="51" Column="1" />
+      <File FileName="Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Photon Unity Networking/Demos/PUNGuide_M2H/_MenuScene/MenuScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Photon Unity Networking/Demos/DemoBoxes/OnAwakePhysicsSettings.cs" Line="9" Column="17" />
+      <File FileName="Assets/Photon Unity Networking/Demos/DemoBoxes/TestGuiInstantiate.cs" Line="30" Column="39" />
+      <File FileName="Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs" Line="1064" Column="5" />
+      <File FileName="Assets/Photon Unity Networking/Plugins/PhotonNetwork/SocketUdp.cs" Line="39" Column="39" />
+      <File FileName="Assets/Photon Unity Networking/Plugins/PhotonNetwork/ServerSettings.cs" Line="1" Column="1" />
+      <File FileName="Assets/Photon Unity Networking/Plugins/PhotonNetwork/RpcIndexComponent.cs" Line="1" Column="1" />
+      <File FileName="Assets/Photon Unity Networking/Plugins/PhotonNetwork/RPC.cs" Line="1" Column="1" />
+      <File FileName="Assets/Photon Unity Networking/Plugins/PhotonNetwork/Room.cs" Line="1" Column="1" />
+      <File FileName="Assets/Photon Unity Networking/Plugins/PhotonNetwork/CustomTypes.cs" Line="99" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
